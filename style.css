@@ -82,7 +82,7 @@ section.imagem p{
 }
 
 section#img01{
-    background-image: url('ilustraçao_agora.jpg');
+    background-image: url('imagem_03.png');
     background-position: right center;
     text-shadow: 1px 1px 0px black;
     background-size: cover;
